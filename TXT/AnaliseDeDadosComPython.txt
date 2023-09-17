@@ -1,0 +1,13 @@
+Análise de Dados com Python - Hashtag Treinamentos
+
+- Kaggle: Pegar uma base de dados de clientes de cartões de crédito: https://www.kaggle.com/sakshigoyal7/credit-card-customers;
+
+
+Desafio:
+
+O diretor de uma empresa de cartão de crédito percebeu que o número de clientes que cancelam seus cartões tem aumentado significativamente, causando prejuízos enormes para a empresa.
+O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a cancelar o cartão?
+
+- Fazer a Análise dos dados disponibilizados para chegar à raiz do problema, qual o motivo de cancelamento;
+- Sugerir estratégias para a empresa aplicar, para sanar esse desafio.
+
